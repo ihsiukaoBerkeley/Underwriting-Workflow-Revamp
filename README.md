@@ -18,7 +18,7 @@ The project includes several key parts:
 *Due to confidentiality, all confidence information has been modified.
 
 ### Role:
-1: digitizated of the underwriting guidelines with LLM.
+1: digitized the underwriting guidelines with LLM.
 
 2: completed the processing and summarization of old medical records with LLM.
 
