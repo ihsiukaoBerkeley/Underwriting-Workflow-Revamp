@@ -1,6 +1,3 @@
-## Underwriting Workflow Revamp
-
-### Description:
 # Revamp of the Underwriting Workflow: An AI-Powered Approach
 
 This project, undertaken at Cathay Life Insurance, introduces an AI-driven workflow to modernize the traditional underwriting process. By leveraging Large Language Models (LLMs) and other AI technologies, this initiative aims to address the inefficiencies and inconsistencies inherent in manual, legacy systems.
